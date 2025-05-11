@@ -4,5 +4,6 @@ version = "0.0.1"
 edition = "2024"
 description = "Minimal dependency networking utilities for Rust"
 repository = "https://github.com/tjons/rs-playground"
+license = "Apache 2.0"
 
 [dependencies]
